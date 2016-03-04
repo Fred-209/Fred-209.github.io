@@ -1,0 +1,23 @@
+
+#banner {
+  font-family: 'Dancing Script', cursive;
+  font-size: 1.75em;
+  text-align: center;
+  background: url('../img/elk_mountain.png') no-repeat center;
+  background-size: cover;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#banner h1 {
+  margin: 0;
+  padding: 0;
+  color: #ede4d5;
+}
+
+#sidebar {
+  float: left;
+  font-family: 'Kaushan Script', cursive;
+}
