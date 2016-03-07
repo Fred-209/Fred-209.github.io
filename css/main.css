@@ -26,6 +26,8 @@ footer {
 
 
 
+
+
 /******************************************************
 HEADING
 ******************************************************/
@@ -56,7 +58,7 @@ NAVIGATION
 *************************************************************/
 
 #navbar {
-  font-family: 'Kaushan Script', cursive;
+  font-family: 'Dancing Script', cursive;
 }
 
 #navbar li {
@@ -65,5 +67,15 @@ NAVIGATION
 }
 
 #navbar a {
-  font-family: 'Kaushan Script', cursive;
+  font-family: 'Dancing Script', cursive;
+  font-size: 1.25em;
+}
+
+
+/********************************************************************
+PHOTOS.html
+*********************************************************************/
+
+.gallery img {
+  padding: 10px;
 }
