@@ -84,7 +84,7 @@ NAVIGATION
   font-family: 'Dancing Script', cursive;
   font-size: 1.5em;
   color: #372601;
-  
+
 }
 
 
@@ -119,11 +119,13 @@ CONTACT.html
   border-color: black;
   border-style: solid;
   border-width: thick;
+  margin-right: 0;
 }
 
 .contact h2 {
   font-weight: bold;
   text-align: center;
   padding: 0;
-  margin: 20px 0 0 20px;
+  margin: 20px 0 25px 20px;
+  font-family: 'Kaushan Script', cursive;
 }
