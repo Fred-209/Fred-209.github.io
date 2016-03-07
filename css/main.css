@@ -1,10 +1,42 @@
+/***************************************************
+GENERAL
+****************************************************/
+
+body {
+  text-align: center;
+  background-image: url('../img/seamless_paper_texture.png');
+
+}
+
+a {
+  text-decoration: none;
+}
+.wrapper {
+  width: 80%;
+  margin: 0 auto;
+  text-align: left;
+}
+
+
+footer {
+  position: fixed;
+  bottom: 0;
+  font-size: 10px;
+}
+
+
+
+/******************************************************
+HEADING
+******************************************************/
+
 
 #banner {
   font-family: 'Dancing Script', cursive;
-  font-size: 1.75em;
+  font-size: 2em;
   text-align: center;
-  background: url('../img/elk_mountain.png') no-repeat center;
-  background-size: cover;
+  background: url('../img/w-mtn.jpg') no-repeat;
+  background-size: 100% 100%;
   height: 200px;
   display: flex;
   align-items: center;
@@ -12,12 +44,26 @@
 }
 
 #banner h1 {
-  margin: 0;
-  padding: 0;
   color: #ede4d5;
+  font-size: 60px;
+  text-shadow: 1px 1px 1px black;
 }
 
-#sidebar {
-  float: left;
+
+
+/*************************************************************
+NAVIGATION
+*************************************************************/
+
+#navbar {
+  font-family: 'Kaushan Script', cursive;
+}
+
+#navbar li {
+  font-size: 20px;
+  padding: 10px
+}
+
+#navbar a {
   font-family: 'Kaushan Script', cursive;
 }
