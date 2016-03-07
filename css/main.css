@@ -66,6 +66,8 @@ NAVIGATION
 
 #navbar {
   font-family: 'Dancing Script', cursive;
+  border-color: black;
+  border-width: medium;
 }
 
 #navbar li {
@@ -92,7 +94,29 @@ PHOTOS.html
 /************************************************************************
 CALENDAR.html
 ************************************************************************/
-
+.calendar {
+  font-family: 'Kaushan Script', cursive;
+}
 .calendar h1 {
   font-size: 40px;
+}
+
+
+/***********************************************************************
+CONTACT.html
+***********************************************************************/
+
+.contact img {
+  float: left;
+  border-radius: 100%;
+  border-color: black;
+  border-style: solid;
+  border-width: thick;
+}
+
+.contact h2 {
+  font-weight: bold;
+  text-align: center;
+  padding: 0;
+  margin: 20px 0 0 20px;
 }
