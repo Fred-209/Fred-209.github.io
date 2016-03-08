@@ -97,6 +97,9 @@ PHOTOS.html
 *********************************************************************/
 
 .gallery img {
+  border-color: #372601;
+  border-style: groove;
+  border-width: medium;
   margin: 15px;
 }
 
