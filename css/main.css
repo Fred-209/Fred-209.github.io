@@ -18,7 +18,7 @@ a {
 }
 
 
-footer {
+lava {
   position: fixed;
   bottom: 0;
   font-size: 10px;
@@ -34,7 +34,9 @@ p {
 .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
     color:black;
     background-color:#bba084;
-    }
+}
+
+
 
 
 
